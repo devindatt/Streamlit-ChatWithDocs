@@ -3,3 +3,4 @@ python-dotenv==1.0.0
 streamlit==1.27.2
 tiktoken==0.5.1
 openai
+chromadb
