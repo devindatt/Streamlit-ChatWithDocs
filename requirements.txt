@@ -4,4 +4,4 @@ streamlit==1.27.2
 tiktoken==0.5.1
 openai
 chromadb
-sqlite3
+pysqlite3==0.5.2
