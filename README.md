@@ -24,10 +24,15 @@ pip install -r requirements.txt
 
 ### Dependencies
 
-Python 3.x
-Chroma Vector DB
-[Other relevant libraries]
-Contributing
+- Python 3.x
+- Chroma Vector DB
+- langchain==0.0.310
+- python-dotenv==1.0.0
+- streamlit==1.27.2
+- tiktoken==0.5.1
+
+
+### Contributing
 
 We welcome contributions to the Langchain Interface. Please see the CONTRIBUTING.md file for more details on how to contribute.
 
