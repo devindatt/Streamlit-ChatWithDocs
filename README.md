@@ -1,5 +1,8 @@
 # Langchain Interface with Chroma Vector DB: Document Embeddings
 
+![StreamlitApp_screenshot](https://github.com/devindatt/Streamlit-ChatWithDocs/assets/42626142/61ba0078-b5e3-4675-852c-87ad1006d3c0)
+
+
 ### Introduction
 
 Welcome to the Langchain Interface repository, a generative AI application that integrates the power of the Chroma Vector DB for efficient and effective document embeddings. Our system utilizes cutting-edge techniques and methodologies to offer users high-quality embeddings, optimized for a range of downstream NLP tasks.
