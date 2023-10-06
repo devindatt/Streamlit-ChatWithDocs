@@ -9,10 +9,11 @@ Welcome to the Langchain Interface repository, a generative AI application that 
 
 ### Features
 
-Seamless Integration: Direct integration with Chroma Vector DB ensures fast and efficient storage and retrieval of document embeddings.
-State-of-the-art Embeddings: Produce high-quality embeddings optimized for various natural language processing tasks.
-Scalability: Designed to handle large volumes of data, ensuring that performance isn't compromised.
-User-friendly Interface: Easy-to-use API that requires minimal setup and configuration.
+- Private Document Q&A: Able to upload or access Text files, PDFs and Wikipedia webpages
+- Seamless Integration: Direct integration with Chroma Vector DB ensures fast and efficient storage and retrieval of document embeddings.
+- State-of-the-art Embeddings: Produce high-quality embeddings optimized for various natural language processing tasks.
+- Scalability: Designed to handle large volumes of data, ensuring that performance isn't compromised.
+- User-friendly Interface: Easy-to-use API that requires minimal setup and configuration.
 
 
 ```
