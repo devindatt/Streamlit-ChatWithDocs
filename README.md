@@ -1,2 +1,37 @@
-# Streamlit-ChatWithDocs
-A Langchain interface that uses Chroma vector DB for document embeddings
+# Langchain Interface with Chroma Vector DB: Document Embeddings
+
+### Introduction
+
+Welcome to the Langchain Interface repository, a generative AI application that integrates the power of the Chroma Vector DB for efficient and effective document embeddings. Our system utilizes cutting-edge techniques and methodologies to offer users high-quality embeddings, optimized for a range of downstream NLP tasks.
+
+### Features
+
+Seamless Integration: Direct integration with Chroma Vector DB ensures fast and efficient storage and retrieval of document embeddings.
+State-of-the-art Embeddings: Produce high-quality embeddings optimized for various natural language processing tasks.
+Scalability: Designed to handle large volumes of data, ensuring that performance isn't compromised.
+User-friendly Interface: Easy-to-use API that requires minimal setup and configuration.
+
+
+```
+git clone https://github.com/devindatt/Streamlit-ChatWithDocs.git
+cd Streamlit-ChatWithDocs
+pip install -r requirements.txt
+```
+
+
+### Dependencies
+
+Python 3.x
+Chroma Vector DB
+[Other relevant libraries]
+Contributing
+
+We welcome contributions to the Langchain Interface. Please see the CONTRIBUTING.md file for more details on how to contribute.
+
+### License
+
+This project is licensed under the MIT License. See the LICENSE.md file for more details.
+
+### Support & Feedback
+
+If you have any questions, issues, or feedback regarding the Langchain Interface, please open an issue on GitHub or contact the maintainers directly.
